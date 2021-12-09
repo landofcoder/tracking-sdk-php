@@ -1,7 +1,7 @@
 <?php
 
 
-namespace Tracking;
+namespace Trackingmore;
 
 
 interface ApiInterface

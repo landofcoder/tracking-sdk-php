@@ -1,8 +1,8 @@
 <?php
 
-namespace Tracking;
+namespace Trackingmore;
 
-use Tracking\ApiInterface;
+use Trackingmore\ApiInterface;
 
 class Api implements ApiInterface
 {

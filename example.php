@@ -11,7 +11,7 @@ if (!defined("TRACKING_AUTOLOADER_PATH")) {
 }
 require_once(__DIR__ . "/Autoloader.php");
 
-use Tracking\Api;
+use Trackingmore\Api;
 
 # Pass api key parameter
 $api = new Api('you api key');

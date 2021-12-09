@@ -1,6 +1,6 @@
 <?php
 
-namespace Tracking;
+namespace Trackingmore;
 
 class Webhook
 {
